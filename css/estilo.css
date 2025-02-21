@@ -1,0 +1,46 @@
+/*Estilização do body da página*/
+body{
+    margin: 0;
+    border: 0;
+}
+
+/*Estilização do header da pagina*/
+header{
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0 50px
+}
+
+.logo{
+    width: 10%;
+}
+/*Estilização do menu do site*/
+nav{
+    color: rgb(0, 0, 0);
+    font-size: 28;
+    right: 100px;
+    top: 50px;
+    position: absolute;
+} 
+nav li{
+    display: inline;
+    margin-right: 40px;
+
+}
+/* estilização da div do header*/
+.divHeader {
+    position: relative;
+}
+ /* .logo1{
+    width: 100px;
+    
+ } */
+.logo2{
+    object-fit: fill;
+
+}
+
+.exemplo{
+ background-image: url(file:///C:/Users/Vestibular/Documents/Kaua/img/banner.jpeg);
+}
+
+
