@@ -30,17 +30,33 @@ nav li{
 .divHeader {
     position: relative;
 }
- /* .logo1{
-    width: 100px;
-    
- } */
-.logo2{
-    object-fit: fill;
+  .logo2{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+  
+ } 
+
+ /* Estilização da sessão sobre nos */
+.sobre_nos{
+    margin: 0;
+    text-align: justify;
+    width: 60%;
+    margin-left: 20%;
 
 }
+ .img_sobrenos {
+    width: 10%;
+    float: left;
+    margin-right: 20px;
 
-.exemplo{
- background-image: url(file:///C:/Users/Vestibular/Documents/Kaua/img/banner.jpeg);
-}
+ }
+ .titulo_sobrenos{
+    text-align: center;
+    clear: left;
+ }
+   
+
+
 
 
